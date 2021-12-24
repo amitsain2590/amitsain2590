@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amitsain2590
+- 👋 Hi, I’m Amit Sain
 - 👀 I’m interested in Collaborative Robotic Arm, Legged Robots, Underwater Robots, Tracked Robots
 - 🌱 I’m always learning something
 - 💞️ I’m looking to collaborate on Legged Robots
